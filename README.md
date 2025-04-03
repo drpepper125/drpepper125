@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drpepper125
-- 👀 I’m interested in computer science, artificial intelligence, cloud computing, Python, Go, and C.
+- 👀 I’m interested in computer science, artificial intelligence, cloud computing, Python and Go.
 - 🌱 I’m currently learning How to finish a project. 
 - 📫 How to reach me Email: joseorona1992@gmail.com 
 - 😄 Pronouns: He/Him
