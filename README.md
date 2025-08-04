@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **drpepper125** — a Cloud Engineer / Platform Engineer passionate about building and supporting robust cloud infrastructure.
+I'm **drpepper125** — a Cloud Engineer / Platform Engineer.
 
 - 🚀 **Cloud Platforms:** AWS (primary), Azure (experience)
 - 🛠️ **Top Skills:** Cloud operations, backend server support
