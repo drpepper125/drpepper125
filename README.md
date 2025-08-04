@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @drpepper125
-- 👀 I’m interested in computer science, artificial intelligence, cloud computing, Python and Go.
-- 🌱 I’m currently learning How to finish a project. 
-- 📫 How to reach me Email: joseorona1992@gmail.com 
-- 😄 Pronouns: He/Him
+# Hi there 👋
+
+I'm **drpepper125** — a Cloud Engineer / Platform Engineer passionate about building and supporting robust cloud infrastructure.
+
+- 🚀 **Cloud Platforms:** AWS (primary), Azure (experience)
+- 🛠️ **Top Skills:** Cloud operations, backend server support
+- 💻 **Languages:** Bash, PowerShell, Python, learning TypeScript
+
+<!--
+**drpepper125/drpepper125** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 <!---
